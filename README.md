@@ -1,2 +1,2 @@
 # rsoft.py
-Calculate mode index, mode field, and bend loss using Rsoft Beamprop
+Python script to calculate mode index, mode field, and bend loss using Rsoft Beamprop
